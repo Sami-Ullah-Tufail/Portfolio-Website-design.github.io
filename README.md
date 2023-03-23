@@ -25,7 +25,7 @@ OPTIONAL SECTIONS:
 After you're finished please remove all the comments and instructions!
 -->
 
-<h1> PORTFOLIO PROJECT t</h1>
+<h1> PORTFOLIO PROJECT </h1>
 
 </div>
 
@@ -54,11 +54,11 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Heloo microverse] <a name="Heloo Microverse"></a>
+# 📖 [PORTFOLIO] <a name="Heloo Microverse"></a>
 
-> This project is about making the first design with the flex model and creating a portfolio websit
+> This project is about making the first design with the flex model and creating a portfolio website
 
-**[Heloo microverse]** is a first project just having two files html and css
+**[PORTFOLIO]** is a first project just having two files html and css
 
 ## 🛠 Built With <a name="built-with"></a>
 
