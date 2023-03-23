@@ -22,8 +22,6 @@ REQUIRED SECTIONS:
 OPTIONAL SECTIONS:
 - FAQ
 
-After you're finished please remove all the comments and instructions!
--->
 
 <h1> PORTFOLIO PROJECT </h1>
 
@@ -52,11 +50,11 @@ After you're finished please remove all the comments and instructions!
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-<!-- PROJECT DESCRIPTION -->
+
 
 # 📖 [PORTFOLIO] <a name="Heloo Microverse"></a>
 
-> This project is about making the first design with the flex model and creating a portfolio website
+> 
 
 **[PORTFOLIO]** is a first project just having two files html and css
 
@@ -73,7 +71,7 @@ After you're finished please remove all the comments and instructions!
 </details>
 
 
-<!-- Features -->
+
 
 ### Key Features <a name="key-features"></a>
 
@@ -90,9 +88,6 @@ After you're finished please remove all the comments and instructions!
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Any one who wants to setup a professional linrs can follow my code
-
-To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
@@ -123,20 +118,14 @@ To run tests, run the following command:
 
 nothing you can d about it
 
-### Deployment
-
-You can deploy this project using:
-non
-
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- AUTHORS -->
+
 
 ## 👥 Authors <a name="Sami.ullah.tufail"></a>
 
-> Mention all of the collaborators of this project.
 
 👤 **Author1**
 
@@ -145,11 +134,11 @@ non
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FUTURE FEATURES -->
+
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
+
 
 - [ ] **[A full home page]**
 - [ ] **[Some forms]**
@@ -157,7 +146,7 @@ non
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- CONTRIBUTING -->
+
 
 ## 🤝 Contributing <a name="contributing"></a>
 
@@ -167,29 +156,27 @@ Feel free to check the [issues page](../../issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- SUPPORT -->
+
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
+
 
 If you like this project please send me an e-mail @ sami.u.tufail@gmail.com
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
 
 I would like to thank microverse
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FAQ (optional) -->
 
-<!-- LICENSE -->
+
+
 
 ## 📝 License <a name="license"></a>
 
