@@ -55,7 +55,7 @@ a {
 }
 
 #headline {
-  background: #1c1a19 url('ASSETS /illustration-header-mobile.svg') no-repeat right bottom;
+  background: #1c1a19 url('files/illustration-header-mobile.svg') no-repeat right bottom;
   background-size: 147px 300px;
   padding: 30% 5%;
   display: flex;
@@ -127,7 +127,7 @@ a {
   }
 
   #headline {
-    background: #1c1a19 url('./img/Illustration-header2.png') no-repeat right top;
+    background: #1c1a19 url('files/illustration-header-mobile.svg') no-repeat right top;
     background-size: 45% 95%;
     padding: 15% 1%;
     display: grid;
