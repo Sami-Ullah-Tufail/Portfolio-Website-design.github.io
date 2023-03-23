@@ -25,7 +25,7 @@ OPTIONAL SECTIONS:
 After you're finished please remove all the comments and instructions!
 -->
 
-<h1> Heloo Microverse </h1>
+<h1> PORTFOLIO PROJECT t</h1>
 
 </div>
 
@@ -56,7 +56,7 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 [Heloo microverse] <a name="Heloo Microverse"></a>
 
-> This project is about getting the the linter setuo and initial. ideas of making sure the github work flow works fine
+> This project is about making the first design with the flex model and creating a portfolio websit
 
 **[Heloo microverse]** is a first project just having two files html and css
 
@@ -68,7 +68,7 @@ After you're finished please remove all the comments and instructions!
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="/">HTML</a></li>
+    <li><a href="/">HTML-CSS</a></li>
   </ul>
 </details>
 
@@ -79,7 +79,7 @@ After you're finished please remove all the comments and instructions!
 
 > 
 
-- **[Has lintrs setup_]**
+- **[Has mobile first approch]**
 - **[Shows on any browser]**
 - **[Clean code]**
 
