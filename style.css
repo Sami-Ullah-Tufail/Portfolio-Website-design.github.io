@@ -152,3 +152,10 @@ a {
     white-space: pre-line;
   }
 }
+.social-media{
+    align-items: baseline;
+    column-gap: 2%;
+} 
+li{
+    fill: #fff;
+}
