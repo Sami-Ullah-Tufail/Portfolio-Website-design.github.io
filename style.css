@@ -25,7 +25,7 @@ a {
   list-style: none;
   display: flex;
   flex-wrap: wrap;
-  align-items: baseline;
+  align-items: center;
   column-gap: 2%;
 }
 
