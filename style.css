@@ -143,11 +143,11 @@ a {
     flex-direction: column;
   }
   
-   .social-media {
-     align-items: baseline;
-     column-gap: 2%;
-   }
-  
+  .social-media {
+    align-items: baseline;
+    column-gap: 2%;
+  }
+
   #headline > .social-media > li {
     margin: 6px 7px;
   }
@@ -156,5 +156,5 @@ a {
     font-size: 3.5rem;
     white-space: pre-line;
   }
-  
+
 } 
