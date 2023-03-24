@@ -25,6 +25,8 @@ a {
   list-style: none;
   display: flex;
   flex-wrap: wrap;
+  align-items: baseline;
+  column-gap: 2%;
 }
 
 .social-media > li > a {
@@ -136,11 +138,6 @@ a {
     justify-content: start;
     align-items: center;
     column-gap: 5%;
-  }
-
-  .social-media {
-    align-items: baseline;
-    column-gap: 2%;
   }
 
   #headline > .social-media {
