@@ -151,11 +151,9 @@ a {
     font-size: 3.5rem;
     white-space: pre-line;
   }
-}
-.social-media{
+  .social-media {
     align-items: baseline;
     column-gap: 2%;
-} 
-li{
-    fill: #fff;
-}
+  } 
+
+ }
