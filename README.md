@@ -23,7 +23,7 @@ OPTIONAL SECTIONS:
 - FAQ
 
 
-<h1> PORTFOLIO PROJECT </h1>
+<h1> feature Projects </h1>
 
 </div>
 
