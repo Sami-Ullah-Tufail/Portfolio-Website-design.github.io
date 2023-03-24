@@ -83,7 +83,6 @@ a {
   font-size: 1rem;
   font-weight: 300;
 }
-@media only screen and (min-width: 500px) {}
 
 @media only screen and (min-width: 768px) {
   .hide-desk {
@@ -143,7 +142,12 @@ a {
     grid-row: 1 / span 3;
     flex-direction: column;
   }
-
+  
+   .social-media {
+     align-items: baseline;
+     column-gap: 2%;
+   }
+  
   #headline > .social-media > li {
     margin: 6px 7px;
   }
@@ -152,8 +156,5 @@ a {
     font-size: 3.5rem;
     white-space: pre-line;
   }
- .social-media{
-    align-items: baseline;
-    column-gap: 2%;
-  } 
+  
 } 
