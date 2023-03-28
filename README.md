@@ -62,7 +62,7 @@ OPTIONAL SECTIONS:
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> this project is built using html-css and nodjs
+> this project is built using html-css.
 <details>
   <summary>Client</summary>
   <ul>
@@ -130,6 +130,11 @@ nothing you can d about it
 👤 **Author1**
 
 - GitHub: [@githubhandle](https://github.com/samiullah12345678)
+
+👤 **Author2**
+
+- GitHub: [@githubhandle](https://github.com/isume295 )
+
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
