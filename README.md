@@ -62,7 +62,7 @@ OPTIONAL SECTIONS:
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> this project is built using html-css and nodjs
+> this project is built using html-css.
 <details>
   <summary>Client</summary>
   <ul>
@@ -78,8 +78,8 @@ OPTIONAL SECTIONS:
 > 
 
 - **[Has mobile first approch]**
-- **[Shows on any browser]**
-- **[Clean code]**
+- **[Responsive Deisign]**
+- **[Contact form with validation]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -93,30 +93,61 @@ OPTIONAL SECTIONS:
 
 In order to run this project you need:
 
-vs-vcode
+
+Example command:
+
+```sh
+ install vs code or any other text editor.
+```
+ 
 
 ### Setup
 
 Clone this repository to your desired folder:
 
-git clon command followd by th https link
+
+Example commands:
+
+```sh
+  cd my-folder
+  git clone https://github.com/samiullah12345678/Portfolio-Website-design
+```
+
+
 ### Install
 
 Install this project with:
 
-Vs-cod
+
+Example command:
+
+```sh
+  node.js V16 and above
+```
+
 
 ### Usage
 
 To run the project, execute the following command:
 
-live server
+
+Example command:
+
+```sh
+  use git bash to open in Vs code
+```
+
 
 ### Run tests
 
 To run tests, run the following command:
 
-nothing you can d about it
+
+Example command:
+
+```sh
+Run "npx stylelint "**/*.{css,scss}" --fix " to fix linters 
+```
 
 
 
@@ -131,6 +162,11 @@ nothing you can d about it
 
 - GitHub: [@githubhandle](https://github.com/samiullah12345678)
 
+👤 **Author2**
+
+- GitHub: [@githubhandle](https://github.com/isume295 )
+
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -140,9 +176,9 @@ nothing you can d about it
 
 
 
-- [ ] **[A full home page]**
-- [ ] **[Some forms]**
-- [ ] **[Ready to go code]**
+- [ ] **[Desktop Site]**
+- [ ] **[interative project tamplete]**
+- [ ] **[Popup contact form]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
