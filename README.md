@@ -78,8 +78,8 @@ OPTIONAL SECTIONS:
 > 
 
 - **[Has mobile first approch]**
-- **[Shows on any browser]**
-- **[Clean code]**
+- **[Responsive Deisign]**
+- **[Contact form with validation]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
