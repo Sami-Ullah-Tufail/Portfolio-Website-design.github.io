@@ -88,35 +88,67 @@ OPTIONAL SECTIONS:
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
+> Developers can use linters to check for errors and bugs. 
 
 ### Prerequisites
 
 In order to run this project you need:
 
-vs-vcode
+
+Example command:
+
+```sh
+ install vs code or any other text editor.
+```
+ 
 
 ### Setup
 
 Clone this repository to your desired folder:
 
-git clon command followd by th https link
+
+Example commands:
+
+```sh
+  cd my-folder
+  git clone https://github.com/God-Logic/My-Portfolio-Website
+```
+
+
 ### Install
 
 Install this project with:
 
-Vs-cod
+
+Example command:
+
+```sh
+  node.js V16 and above
+```
+
 
 ### Usage
 
 To run the project, execute the following command:
 
-live server
+
+Example command:
+
+```sh
+  use git bash to open in Vs code
+```
+
 
 ### Run tests
 
 To run tests, run the following command:
 
-nothing you can d about it
+
+Example command:
+
+```sh
+Run "npx stylelint "**/*.{css,scss}" --fix " to fix linters 
+```
 
 
 
