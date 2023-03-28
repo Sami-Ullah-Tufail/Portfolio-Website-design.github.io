@@ -88,7 +88,6 @@ OPTIONAL SECTIONS:
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Developers can use linters to check for errors and bugs. 
 
 ### Prerequisites
 
@@ -111,7 +110,7 @@ Example commands:
 
 ```sh
   cd my-folder
-  git clone https://github.com/God-Logic/My-Portfolio-Website
+  git clone https://github.com/samiullah12345678/Portfolio-Website-design
 ```
 
 
