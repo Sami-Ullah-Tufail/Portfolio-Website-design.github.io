@@ -145,9 +145,9 @@ nothing you can d about it
 
 
 
-- [ ] **[A full home page]**
-- [ ] **[Some forms]**
-- [ ] **[Ready to go code]**
+- [ ] **[Desktop Site]**
+- [ ] **[interative project tamplete]**
+- [ ] **[Popup contact form]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
