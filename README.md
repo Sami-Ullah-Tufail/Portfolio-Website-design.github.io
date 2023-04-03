@@ -155,6 +155,15 @@ Run "npx stylelint "**/*.{css,scss}" --fix " to fix linters
 
 
 
+### Deployment
+
+The project is being deployed using the github pages
+
+**link**
+https://samiullah12345678.github.io/Portfolio-Website-design.github.io
+
+
+
 ## 👥 Authors <a name="Sami.ullah.tufail"></a>
 
 
