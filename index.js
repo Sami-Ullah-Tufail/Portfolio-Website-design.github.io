@@ -26,7 +26,6 @@ function createPopupWindow(project) {
   project.techs.forEach((item) => {
     popupWindow.querySelector('ul').innerHTML += `<li>${item}</li>`;
   });
-  
   popupWindow.querySelector('div').innerHTML += `
       <div class="img-placeholder"><img src="${project.imgSrc}" alt="The project preview"></div>
       <p class='card-desc'>${project.desc}</p>
