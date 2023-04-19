@@ -80,6 +80,7 @@ OPTIONAL SECTIONS:
 - **[Has mobile first approch]**
 - **[Responsive Deisign]**
 - **[Contact form with validation]**
+- **[popup window for the project details]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
