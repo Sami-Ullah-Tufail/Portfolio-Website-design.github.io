@@ -15,6 +15,7 @@ navListItems.forEach((item) => item.addEventListener('click', () => {
   mariMarzi.classList.add('hide');
   mariMarzi.classList.remove('mobile-menu');
 }));
+
 function createPopupWindow(project) {
   const popupWindow = document.createElement('div');
   popupWindow.classList.add('popup-window');
@@ -25,6 +26,7 @@ function createPopupWindow(project) {
   project.techs.forEach((item) => {
     popupWindow.querySelector('ul').innerHTML += `<li>${item}</li>`;
   });
+  
   popupWindow.querySelector('div').innerHTML += `
       <div class="img-placeholder"><img src="${project.imgSrc}" alt="The project preview"></div>
       <p class='card-desc'>${project.desc}</p>
