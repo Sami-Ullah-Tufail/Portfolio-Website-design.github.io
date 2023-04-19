@@ -91,7 +91,7 @@ const projects = [
     name: 'Thrilling',
     briefDesc: 'An online books store where you can add your preffered books.',
     desc: 'Bookstore is books list page using an external API to store your preferred books with the ability to remove and add new books, the project is built with React.JS & Redux.JS.',
-    imgSrc: 'files/Img Placeholder (1).png',
+    imgSrc: 'files/Snapshoot Portfolio.png',
     techs: ['React.JS', 'Redux.JS', 'JavaScript'],
 
   },
@@ -99,7 +99,7 @@ const projects = [
     name: 'Openbb',
     briefDesc: 'A single page app with 3 pages including a simple calculator.',
     desc: 'A single page app with 3 pages (Home, Calculator, Quotes). the app is built with Vanilla JavaScript and React.',
-    imgSrc: 'files/Img Placeholder (1).png',
+    imgSrc: 'files/Snapshoot Portfolio.png',
     techs: ['React.JS', 'JavaScript'],
 
   },
@@ -107,7 +107,7 @@ const projects = [
     name: 'Grootpots',
     briefDesc: 'Simple tool to help organize your day. It simply lists the things that you need to do in the day.',
     desc: 'A multi pages web app about famous shows, it presents details about different shows and gives the user the ability to like or comment on their preferred show. The project was built with JavaScript ES6 and bundeled with Webpack.',
-    imgSrc: 'files/Img Placeholder (1).png',
+    imgSrc: 'files/Snapshoot Portfolio.png',
     techs: ['HTML', 'CSS', 'JavaScript', 'Webpack'],
 
   },
@@ -115,7 +115,7 @@ const projects = [
     name: 'i love it',
     briefDesc: 'An app to store and manage scores of different users using an external API.',
     desc: 'Leaderboard is an app that shows the scores of different players, the scores and players infos are fetched from an external API, the user can add his name and score as well which will be sent and stored in the external API. The project was built using JavaScript and bundeled with webpack.',
-    imgSrc: 'files/Img Placeholder (1).png',
+    imgSrc: 'files/Snapshoot Portfolio.png',
     techs: ['JavaScript', 'Webpack'],
 
   },
@@ -123,14 +123,14 @@ const projects = [
     name: 'ade up',
     briefDesc: 'Simple tool to help organize your day. It simply lists the things that you need to do in the day.',
     desc: 'Simple Tool built with JavaScript and bundled with Webpack, that helps organize your day. It simply lists the things that you need to do and allows you to mark them as complete and also remove or add new tasks to the list.',
-    imgSrc: 'files/Img Placeholder (1).png',
+    imgSrc: 'files/Snapshoot Portfolio.png',
     techs: ['CSS', 'HTML', 'JavaScript', 'Webpack'],
   },
   {
     name: 'NON',
     briefDesc: '2 Pages Website Containing Some Informations About The Global Climate Conference COP22 Held in Marrakech 2016.',
     desc: 'A 2 pages Website Containing Some Informations About The Global Climate Conference COP22 Held in Marrakech 2016. The website was built using plain HTML 5, CSS 3 and JavaScript.',
-    imgSrc: 'files/Img Placeholder (1).png',
+    imgSrc: 'files/Snapshoot Portfolio.png',
     techs: ['HTML', 'CSS', 'JavaScript'],
   },
 ];
