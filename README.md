@@ -215,7 +215,8 @@ If you like this project please send me an e-mail @ sami.u.tufail@gmail.com
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 
-I would like to thank microverse
+I would like to thank microverse and my coding partner
+https://github.com/misikira
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
