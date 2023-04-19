@@ -140,3 +140,22 @@ createProjectCard(firstProject, 1);
 projects.forEach((project) => {
   createProjectCard(project);
 });
+
+const form = document.querySelector('#contact-form');
+const { email } = form.elements;
+const msgContainer = document.querySelector('.msg-container');
+const pattern = /[A-Z]/;
+const invalidEmail = 'Please make sure that all characters in your email are lowercase!';
+
+function showMsg(msg, container) {
+  container.innerHTML = msg;
+}
+
+form.addEventListener('submit', (event) => {
+  event.preventDefault();
+  if (pattern.test(email.value) === true) {
+    showMsg(invalidEmail, msgContainer);
+  } else {
+    form.submit();
+  }
+});
