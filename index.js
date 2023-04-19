@@ -151,3 +151,11 @@ function showMsg(msg, container) {
   container.innerHTML = msg;
 }
 
+form.addEventListener('submit', (event) => {
+  event.preventDefault();
+  if (pattern.test(email.value) === true) {
+    showMsg(invalidEmail, msgContainer);
+  } else {
+    form.submit();
+  }
+});
