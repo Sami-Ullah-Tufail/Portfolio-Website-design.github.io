@@ -80,6 +80,7 @@ OPTIONAL SECTIONS:
 - **[Has mobile first approch]**
 - **[Responsive Deisign]**
 - **[Contact form with validation]**
+- **[data save on local storage]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
