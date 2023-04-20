@@ -82,6 +82,7 @@ a {
   background: #fff5e1;
   border: 1px solid #f55800;
   color: #f55800;
+  transition: all ease 1s;
 }
 
 .card-button:active {
